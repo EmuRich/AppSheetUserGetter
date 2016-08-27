@@ -1,0 +1,9 @@
+C:\Temp\UserGetter\UserGetter\bin\Debug\UserGetter.exe.config
+C:\Temp\UserGetter\UserGetter\obj\Debug\UserGetter.csprojResolveAssemblyReference.cache
+C:\Temp\UserGetter\UserGetter\bin\Debug\UserGetter.exe
+C:\Temp\UserGetter\UserGetter\bin\Debug\UserGetter.pdb
+C:\Temp\UserGetter\UserGetter\obj\Debug\UserGetter.exe
+C:\Temp\UserGetter\UserGetter\obj\Debug\UserGetter.pdb
+C:\Temp\AppSheetUserGetter\UserGetter\UserGetter\bin\Debug\UserGetter.exe.config
+C:\Temp\AppSheetUserGetter\UserGetter\UserGetter\obj\Debug\UserGetter.exe
+C:\Temp\AppSheetUserGetter\UserGetter\UserGetter\obj\Debug\UserGetter.pdb
